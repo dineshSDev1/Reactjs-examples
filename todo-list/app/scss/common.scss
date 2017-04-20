@@ -1,0 +1,25 @@
+$font-stack: 'Montserrat', sans-serif;
+$background-color: #2995F0;
+
+*{
+	box-sizing: border-box;
+}
+
+html, body{
+	margin:0;
+	padding:0;
+}
+
+html{
+  height: 100%;
+}
+
+body{
+	background: $background-color;
+	font-family: $font-stack;
+}
+
+#app{
+	margin-top: 100px;
+	margin-bottom:100px;
+}
