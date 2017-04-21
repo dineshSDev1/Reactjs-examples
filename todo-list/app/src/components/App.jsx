@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import '../../../scss/content.scss';
+import '../../resources/scss/content.scss';
 import Sidebar from './Sidebar.jsx';
 import Todocontent from './Todocontent.jsx';
 
